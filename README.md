@@ -1,2 +1,3 @@
 # modal-js
-A simple modal close-open modal, with vanilla JS
+practise DOM ( adding, removing, looking for classes, keydown )
+A simple  close-open modal app , with vanilla JS
